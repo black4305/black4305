@@ -1,7 +1,7 @@
 ## Yeongmin Jang 👋
 ![black4305's github stats](https://github-readme-stats.vercel.app/api?username=black4305&show_icons=true) 
 [![black4305's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=black4305&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/black4305)
-![trophy](https://github-profile-trophy.vercel.app/?username=black4305&theme=gruvbox&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=black4305&theme=gruvbox&column=9)
 
 ### Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
